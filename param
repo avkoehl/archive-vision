@@ -1,0 +1,5 @@
+minHessian: 2000
+octaves: 8
+octaveLayers: 8
+min Size: 10
+min Response: 50
